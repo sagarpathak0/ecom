@@ -86,7 +86,7 @@ const Navbar: React.FC = () => {
                 </Link>
               </li>
               <li>
-                <Link href="/signup" className="hover:text-indigo-600 transition duration-300">
+                <Link href="/register" className="hover:text-indigo-600 transition duration-300">
                   Register
                 </Link>
               </li>
